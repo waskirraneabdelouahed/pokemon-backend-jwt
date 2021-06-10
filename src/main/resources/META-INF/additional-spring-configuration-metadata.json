@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "abdelouahed.app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for abdelouahed.app.jwtSecret.",
+      "sourceType": "com.nimbleways.pokemon.CustomProperties"
+    },
+    {
+      "name": "abdelouahed.app.jwtExpirationMs",
+      "type": "java.lang.String",
+      "description": "Description for abdelouahed.app.jwtExpirationMs.",
+      "sourceType": "com.nimbleways.pokemon.CustomProperties"
+    }
+  ] }

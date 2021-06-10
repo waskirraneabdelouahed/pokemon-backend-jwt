@@ -3,5 +3,9 @@ server:
 spring:
   application:
     name: pokemon-service
-  datasource:
-    url: jdbc:h2:mem:pokemon
+
+abdelouahed:
+  app:
+    jwtSecret: secretsecreestitsrealllyascrespqsdokqpsjcosqdcrrezkjf
+    jwtExpirationMs: 1800000
+
