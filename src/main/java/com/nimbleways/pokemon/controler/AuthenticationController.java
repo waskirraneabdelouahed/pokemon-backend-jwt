@@ -122,7 +122,7 @@ public class AuthenticationController {
                 }
             });
         }
-        //We persist the UserEntity in the DB
+        //We persist the UserEntity in the DB hello
         user.setRoles(roles);
         userRepository.save(user);
         logger.info("user has been Saved:" + user+ " encoder " + "roles length: " +" " + encoder.getClass());
